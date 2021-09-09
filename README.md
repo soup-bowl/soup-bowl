@@ -5,6 +5,6 @@ I'm primarily a back-end developer, working with PHP and (recently) Java. I also
 
 🖥️ I have dabbled in Java, C#, Python, JavaScript (NodeJS, React), CSS, Inkscape (Vectors), Flash Professional (ActionScript), HomeAssistant, and more.
 
-➡ Want to know more? Visit my website - [soupbowl.io][soupbowl].
+➡ Want to know more? Visit my website - [soupbowl.io][soupbowl], and on Discord as **soup-bowl#8205**.
 
 [soupbowl]: https://www.soupbowl.io
