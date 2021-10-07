@@ -1,5 +1,5 @@
 ### Hi, I'm Casey 👋
-I am a DevOps Engineer with a passion for coding, networking, infrastructure (cloud and on-prem) and IoT.
+I am a **DevOps Engineer** with a passion for coding, networking, infrastructure (cloud and on-prem) and IoT. My cloud of preference is **Azure**.
 
 🚀 I have experience in PHP, MySQL, Microsoft SQL, WordPress, Git, Subversion, Docker, Windows (IIS) & Linux (NGINX) Application Infrastructure management.
 
