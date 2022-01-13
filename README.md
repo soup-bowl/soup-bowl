@@ -1,5 +1,7 @@
-### Hi, I'm Casey 👋
-I am a **DevOps Engineer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi).
+
+![](https://user-images.githubusercontent.com/11209477/149373473-e2c8ede2-f521-48a7-942b-0278fdacded4.png)
+
+Hi, I'm Casey - a **DevOps Engineer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi).
 
 <!--
 A word on how I determine the difference between 'experienced' and 'dabbled'.
