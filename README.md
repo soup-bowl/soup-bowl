@@ -22,4 +22,4 @@ Professional qualifications in areas will leapfrog the above requirements.
 
 ➡ Want to know more? Visit my website - [soupbowl.io][soupbowl], and on Discord as **soup-bowl#8205**.
 
-[soupbowl]: https://www.soupbowl.io
+[soupbowl]: https://soupbowl.io
