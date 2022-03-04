@@ -1,8 +1,5 @@
 
-![](https://user-images.githubusercontent.com/11209477/149373473-e2c8ede2-f521-48a7-942b-0278fdacded4.png)
-<!-- Cursive font is https://fontesk.com/zafrilus-font/, Bold font is Ubuntu. Everything else is here https://labs.soupbowl.io/miami/ -->
-
-Hi, I'm Casey - a **DevOps Engineer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi).
+Hi, I'm Casey - a **Developer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi).
 
 <!--
 A word on how I determine the difference between 'experienced' and 'dabbled'.
