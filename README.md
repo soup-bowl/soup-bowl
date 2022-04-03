@@ -13,9 +13,9 @@ My personal conditions of considering myself experienced follow this ruleset:
 Professional qualifications in areas will leapfrog the above requirements.
 -->
 
-🚀 I have experience in PHP, MySQL, C#, Microsoft SQL, WordPress, Git, Subversion, Docker, Windows (IIS) & Linux (NGINX) Application Infrastructure management.
+🚀 I have experience in [PHP](https://github.com/soup-bowl/kebabble), MySQL, C#, Microsoft SQL, [WordPress](https://github.com/soup-bowl/wp-simple-smtp), Git, Subversion, [Docker](https://github.com/soup-bowl?tab=packages), Windows (IIS) & Linux (NGINX) Application Infrastructure management.
 
-🖥️ I have dabbled in Java, Python, JavaScript (NodeJS, React), CSS, Inkscape (Vectors), Flash Professional (ActionScript), HomeAssistant, and more.
+🖥️ I have dabbled in Java, [Python](https://github.com/soup-bowl/XperiaPlay-Tools), [JavaScript](https://github.com/soup-bowl/labs) (NodeJS, [React](https://github.com/soup-bowl/whatsth.is)), [CSS](https://github.com/soup-bowl/labs), Inkscape (Vectors), Flash Professional (ActionScript), HomeAssistant, and more.
 
 ➡ Want to know more? Visit my website - [soupbowl.io][soupbowl], and on Discord as **soup-bowl#8205**.
 
