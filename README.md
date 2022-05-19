@@ -19,4 +19,6 @@ Professional qualifications in areas will leapfrog the above requirements.
 
 ➡ Want to know more? Visit my website - [soupbowl.io][soupbowl], and on Discord as **soup-bowl#8205**.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup-bowl)](https://github.com/anuraghazra/github-readme-stats)
+
 [soupbowl]: https://soupbowl.io
