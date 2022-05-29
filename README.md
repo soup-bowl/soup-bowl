@@ -1,5 +1,5 @@
 
-Hi, I'm Casey (he/them) - a **Front-end Developer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi). Weird mix, right?
+Hi, I'm Casey (he/them) - a **DevOps Engineer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi). Weird mix, right?
 
 <!--
 A word on how I determine the difference between 'experienced' and 'dabbled'.
