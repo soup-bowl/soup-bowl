@@ -1,24 +1,17 @@
+# soup-bowl
 
-Hi, I'm Casey (he/them) - a **DevOps Engineer** with a passion for coding, networking, cloud infrastructure (Azure), and IoT (Raspberry Pi). Weird mix, right?
+![](https://img.shields.io/badge/job-Developer-orange)
+![](https://img.shields.io/badge/version-1994-green)
+![](https://img.shields.io/badge/build-failed-red)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheAlmightyWord)](https://twitter.com/TheAlmightyWord)
 
-<!--
-A word on how I determine the difference between 'experienced' and 'dabbled'.
-My personal conditions of considering myself experienced follow this ruleset:
+A humanoid project ith the goal of converting pizza amd coffee into IaC, CI/CD and completely random projects.
 
-* Have I used this for more than 3 years?
-* Am I able to recall some basic principles/functions without needing to Google?
-* Can I spot good and bad practices in this technology? Do I know appropriate use-case scenarios?
-* Have I used, or is my code in Production somewhere in the universe?
+![][head]
 
-Professional qualifications in areas will leapfrog the above requirements.
--->
+➡ Want to know more? Visit my website - [soupbowl.io][site], and on Discord as **soup-bowl#8205**.
 
-<!--🚀 I have experience in [PHP](https://github.com/soup-bowl/kebabble), MySQL, C#, Microsoft SQL, [WordPress](https://github.com/soup-bowl/wp-simple-smtp), Git, Subversion, [Docker](https://github.com/soup-bowl?tab=packages), Windows (IIS) & Linux (NGINX) Application Infrastructure management.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-🖥️ I have dabbled in Java, [Python](https://github.com/soup-bowl/XperiaPlay-Tools), [JavaScript](https://github.com/soup-bowl/labs) (NodeJS, [React](https://github.com/soup-bowl/whatsth.is)), [CSS](https://github.com/soup-bowl/labs), Inkscape (Vectors), Flash Professional (ActionScript), HomeAssistant, and more.-->
-
-➡ Want to know more? Visit my website - [soupbowl.io][soupbowl], and on Discord as **soup-bowl#8205**.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soup-bowl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[soupbowl]: https://soupbowl.io
+[head]: https://user-images.githubusercontent.com/11209477/147856239-c7eb65c9-ba89-44fa-bf32-1e68568dc48b.png
+[site]: https://soupbowl.io
