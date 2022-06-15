@@ -26,3 +26,9 @@ When macOS testing is needed.
 For situations of more portability.
 
 ![TAF specs via Neofetch](https://user-images.githubusercontent.com/11209477/173798015-eac78eaf-7159-4cb0-8eb3-05539b85da5e.png)
+
+## Raspberry Pi 3
+
+Home automation main host and Docker server.
+
+![image](https://user-images.githubusercontent.com/11209477/173889155-77765713-1083-4cf5-82b0-e4598bfcbf90.png)
