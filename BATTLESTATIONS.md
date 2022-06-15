@@ -27,6 +27,12 @@ For situations of more portability.
 
 ![TAF specs via Neofetch](/img/neofetch-ataf100.png)
 
+## Dell Wyse
+
+Tampering with low yield operating systems.
+
+![Wyse via Neofetch](/img/neofetch-wyse.png)
+
 ## Raspberry Pi 3
 
 Home automation main host and Docker server.
