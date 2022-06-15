@@ -15,6 +15,12 @@ Used for portable programming.
 
 ![ThinkPad specs via Neofetch](https://user-images.githubusercontent.com/11209477/173762984-c52bff95-366f-477b-8e1e-89d4f5a54164.png)
 
+## Toshiba Satelite Pro (Hackintosh)
+
+When macOS testing is needed.
+
+![Screenshot 2022-06-15 at 18 11 37](https://user-images.githubusercontent.com/11209477/173886560-3f26f78d-8110-4ef4-8d5d-15d088a7eb0f.png)
+
 ## Asus Transformerbook T100TAF
 
 For situations of more portability.
