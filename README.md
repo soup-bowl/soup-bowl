@@ -13,5 +13,5 @@ A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[head]: https://user-images.githubusercontent.com/11209477/147856239-c7eb65c9-ba89-44fa-bf32-1e68568dc48b.png
+[head]: /img/head.png
 [site]: https://soupbowl.io
