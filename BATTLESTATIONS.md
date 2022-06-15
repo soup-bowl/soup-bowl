@@ -19,7 +19,7 @@ Used for portable programming.
 
 When macOS testing is needed.
 
-![Screenshot 2022-06-15 at 18 11 37](https://user-images.githubusercontent.com/11209477/173886560-3f26f78d-8110-4ef4-8d5d-15d088a7eb0f.png)
+![Satelite Pro Hackintosh via Neofetch](https://user-images.githubusercontent.com/11209477/173886560-3f26f78d-8110-4ef4-8d5d-15d088a7eb0f.png)
 
 ## Asus Transformerbook T100TAF
 
@@ -31,4 +31,4 @@ For situations of more portability.
 
 Home automation main host and Docker server.
 
-![image](https://user-images.githubusercontent.com/11209477/173889155-77765713-1083-4cf5-82b0-e4598bfcbf90.png)
+![Raspberry Pi 3 via Neofetch](https://user-images.githubusercontent.com/11209477/173889155-77765713-1083-4cf5-82b0-e4598bfcbf90.png)
