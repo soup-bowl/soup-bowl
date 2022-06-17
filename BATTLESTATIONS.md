@@ -1,40 +1,19 @@
 # 💻 Battlestations
 
-Listed in order of primary purpose.
+<h2 align="center">Main</h2>
 
-## Dell Latitude 7710
+Dell Latitude 7710 | ThinkPad X1 Carbon - Generation 2
+-|-
+![Dell 7710 Specs via Neofetch](img/neofetch-7710.png) | ![ThinkPad specs via Neofetch](img/neofetch-thinkpadx1c2.png)
 
-Main workhorse.
+<h2 align="center">Niche</h2>
 
-![Dell 7710 Specs via Neofetch](img/neofetch-7710.png)
+Toshiba Satelite Pro (Hackintosh) | Asus Transformerbook T100TAF
+-|-
+![Satelite Pro Hackintosh via Neofetch](/img/neofetch-hackintosh.png) | ![TAF specs via Neofetch](/img/neofetch-ataf100.png)
 
+<h2 align="center">IoT</h2>
 
-## ThinkPad X1 Carbon - Generation 2
-
-Used for portable programming.
-
-![ThinkPad specs via Neofetch](img/neofetch-thinkpadx1c2.png)
-
-## Toshiba Satelite Pro (Hackintosh)
-
-When macOS testing is needed.
-
-![Satelite Pro Hackintosh via Neofetch](/img/neofetch-hackintosh.png)
-
-## Asus Transformerbook T100TAF
-
-For situations of more portability.
-
-![TAF specs via Neofetch](/img/neofetch-ataf100.png)
-
-## Dell Wyse
-
-Tampering with low yield operating systems.
-
-![Wyse via Neofetch](/img/neofetch-wyse.png)
-
-## Raspberry Pi 3
-
-Home automation main host and Docker server.
-
-![Raspberry Pi 3 via Neofetch](/img/neofetch-rpi3.png)
+Raspberry Pi 3 | Dell Wyse
+-|-
+![Raspberry Pi 3 via Neofetch](/img/neofetch-rpi3.png) | ![Wyse via Neofetch](/img/neofetch-wyse.png)
