@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/job-Developer-orange)][site]
 [![](https://img.shields.io/badge/version-1994-green)][site]
-[![](https://img.shields.io/badge/build-failed-red)][site]
+[![](https://img.shields.io/badge/build-failed-red)](/BATTLESTATIONS.md)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheAlmightyWord)](https://twitter.com/TheAlmightyWord)
 
 A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD and completely random projects.
