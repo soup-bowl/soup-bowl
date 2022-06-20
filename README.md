@@ -1,9 +1,8 @@
-# 💁 soup-bowl
-
-[![](https://img.shields.io/badge/job-Developer-orange)][site]
-[![](https://img.shields.io/badge/version-1994-green)][site]
-[![](https://img.shields.io/badge/build-failed-red)](/BATTLESTATIONS.md)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheAlmightyWord)](https://twitter.com/TheAlmightyWord)
+<h1 align="center">💁 soup-bowl</h1>
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg">
+  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg">
+</p>
 
 A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD and completely random projects.
 
