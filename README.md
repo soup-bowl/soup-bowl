@@ -1,7 +1,8 @@
 <h1 align="center">💁 soup-bowl</h1>
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg">
-  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg">
+  <a href="https://twitter.com/TheAlmightyWord"><img src="https://img.shields.io/badge/has-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/soup-bowl"><img src="https://img.shields.io/badge/has-reddit-orange?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/has-discord-404eed?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD and completely random projects.
