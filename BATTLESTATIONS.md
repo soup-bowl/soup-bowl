@@ -14,6 +14,6 @@ Toshiba Satelite Pro (Hackintosh) | Asus Transformerbook T100TAF
 
 <h2 align="center">🏘️ IoT</h2>
 
-Raspberry Pi 3 | Dell Wyse
--|-
-![Raspberry Pi 3 via Neofetch](/img/neofetch-rpi3.png) | ![Wyse via Neofetch](/img/neofetch-wyse.png)
+|Raspberry Pi 3|
+|-|
+|![Raspberry Pi 3 via Neofetch](/img/neofetch-rpi3.png)|
