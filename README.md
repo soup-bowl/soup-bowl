@@ -10,7 +10,7 @@ A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD 
 
 ![][head]
 
-➡ Want to know more? Visit my website - [soupbowl.io][site], and on Discord as **soup-bowl#9999**.
+➡ Want to know more? Visit my website - [soupbowl.io][site], and on Discord as **soup-bowl#6556**.
 
 [head]: /img/head.png
 [site]: https://soupbowl.io
