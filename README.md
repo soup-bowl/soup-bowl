@@ -8,10 +8,11 @@
 
 A humanoid project with the goal of converting pizza and coffee into IaC, CI/CD and completely random projects.
 
-![][head]
+<p align="center">
+  <img src="/img/head-2.jpg" />
+</p>
 
 ➡ Want to know more? Visit my portfolio at [soupbowl.dev][site0], and on Discord as **soupbowl#9573**.
 
-[head]:  /img/head.png
 [site0]: https://soupbowl.dev
 [site1]: https://soupbowl.blog
