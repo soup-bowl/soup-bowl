@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soup-bowl&show_icons=true&hide=contribs&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&hide_border=true&langs_count=8&disable_animations=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soup-bowl&hide_rank=true&hide_title=true&hide_border=true&disable_animations=true&theme=transparent" />
 </p>
 
 <p align="center">
