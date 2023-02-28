@@ -9,3 +9,6 @@
 <p align="center">
   <img src="/img/head-2.jpg" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&hide_border=true&langs_count=8&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=soup-bowl&show_icons=true&hide=contribs&hide_border=true&theme=transparent)
