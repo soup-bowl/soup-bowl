@@ -14,3 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api?username=soup-bowl&show_icons=true&hide=contribs&hide_border=true&theme=transparent" />
 </p>
+
+<p align="center">
+  Stats widget provided by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>.
+</p>
