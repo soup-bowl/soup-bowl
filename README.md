@@ -9,12 +9,3 @@
 <p align="center">
   <img src="/img/head-2.jpg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup-bowl&layout=compact&hide_border=true&langs_count=8&disable_animations=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soup-bowl&hide_rank=true&hide_title=true&hide_border=true&disable_animations=true&theme=transparent" />
-</p>
-
-<p align="center">
-  Stats widget provided by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>.
-</p>
