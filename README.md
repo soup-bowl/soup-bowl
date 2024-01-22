@@ -6,4 +6,4 @@
 </p>
 
 > [!WARNING]  
-> I'm taking a temporary step back from actve open source coding. [Please read more here](https://blog.soupbowl.io/2023/12/state-of-open-source).
+> I am reducing my actve open source coding. [Please read more here](https://blog.soupbowl.io/2023/12/state-of-open-source).
