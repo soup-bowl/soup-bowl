@@ -4,3 +4,6 @@
   <a href="https://matrix.to/#/@soupbowl:mozilla.org"><img src="https://img.shields.io/badge/has-matrix-000000?style=for-the-badge&logo=matrix&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/soupbowl"><img src="https://img.shields.io/badge/pls-donate-FDDB00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
 </p>
+<p align="center">
+  <img src="/img/head-2.jpg" />
+</p>
